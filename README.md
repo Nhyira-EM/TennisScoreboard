@@ -1,3 +1,5 @@
+_This project was done in August 2024_
+
 ## Authors
 - Valerie Ackon(@leyrieee)
 - Emmanuel Nhyira Freduah-Agyemang(@Nhyira-EM)
